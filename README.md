@@ -8,8 +8,6 @@ directly with hardware, including embedded Linux images, real-time control, robo
 primarily to build reliable interfaces, dashboards, and infrastructure around
 these systems.
 
----
-
 ## Tech Stack
 
 ### Programming Languages
@@ -21,15 +19,11 @@ these systems.
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
----
-
 ### Frameworks & Development Tools
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Meta LLaMA](https://img.shields.io/badge/Meta%20LLaMA-0467DF?style=flat)
-
----
 
 ### Systems & Platforms
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
@@ -40,8 +34,6 @@ these systems.
 ![Yocto](https://img.shields.io/badge/Yocto-000000?style=flat&logo=yocto&logoColor=white)
 ![BitBake](https://img.shields.io/badge/BitBake-Build%20System-6E4AFF?style=flat)
 
----
-
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -50,15 +42,11 @@ these systems.
 ![WSL](https://img.shields.io/badge/WSL-0078D6?style=flat&logo=windows&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
----
-
 ## GitHub Stats:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erichuangreal&theme=github-compact"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=erichuangreal&theme=transparent&hide_border=false&v=2" height="160"/>
 </div>
-
----
 
 ## Connect
 
