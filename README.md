@@ -1,4 +1,4 @@
-# About me
+## About me
 
 I’m a Computer Engineering student at the University of Waterloo focused on
 **embedded systems, robotics firmware, and full-stack engineering**.
@@ -10,7 +10,7 @@ these systems.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -52,13 +52,15 @@ these systems.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erichuangreal&show_icons=true&hide_title=true&cache_seconds=7200)
+## GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erichuangreal&theme=github-compact"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=erichuangreal&theme=transparent&hide_border=false&v=2" height="160"/>
+</div>
 
 ---
 
-## 📫 Connect
+## Connect
 
 - LinkedIn: https://www.linkedin.com/in/erichuanguw
 - GitHub: https://github.com/erichuangreal
