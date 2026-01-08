@@ -1,7 +1,7 @@
 ## About me
 
 I’m a Computer Engineering student at the University of Waterloo focused on
-**embedded systems, robotics firmware, and full-stack engineering**.
+**embedded systems, robotics firmware, and full-stack development**.
 
 Most of my work centers on building and integrating software that interacts
 directly with hardware, including embedded Linux images, real-time control, robotics firmware, and system-level tooling. I use full-stack development
