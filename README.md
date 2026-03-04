@@ -53,6 +53,5 @@ Here is my website: https://erichuangreal.dev/ (still a work-in-progress)
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/erichuanguw
-- GitHub: https://github.com/erichuangreal
-- Email: e233huan@uwaterloo.ca or eric.huang.eng@gmail.com
+- Email: e233huan@uwaterloo.ca
 - Website: https://erichuangreal.dev/
