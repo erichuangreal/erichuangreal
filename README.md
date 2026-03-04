@@ -8,6 +8,8 @@ directly with hardware, including embedded Linux images, real-time control, robo
 primarily to build reliable interfaces, dashboards, and infrastructure around
 these systems.
 
+Here is my website: https://erichuangreal.dev/ (still a work-in-progress)
+
 ## Tech Stack
 
 ### Programming Languages
@@ -53,3 +55,4 @@ these systems.
 - LinkedIn: https://www.linkedin.com/in/erichuanguw
 - GitHub: https://github.com/erichuangreal
 - Email: e233huan@uwaterloo.ca or eric.huang.eng@gmail.com
+- Website: https://erichuangreal.dev/
