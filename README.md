@@ -69,7 +69,7 @@ These are are a lot of projects, and I had help from plenty of different technol
 ## GitHub Stats
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erichuangreal&theme=github-compact" alt="GitHub activity graph"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=erichuangreal&theme=transparent&hide_border=false&v=2" height="160" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com/?user=erichuangreal&theme=transparent&hide_border=true" height="160" alt="GitHub streak"/>
 </div>
 
 ## Connect
