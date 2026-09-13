@@ -1,7 +1,7 @@
 ## About me
 
 - I’m a Computer Engineering student at the University of Waterloo 🔧👷
-- This means I like to build both software and hardware, I'm a very versatile guy 😁
+- Usually building software, occasionally wiring things together, often debugging both 😁
 
 - Some projects I'm passionate to share are my
     - trading ml model 📈
@@ -13,7 +13,11 @@
     - linux board, that runs an entire OS ‼️
 
 ## Tech Stack
-These are are a lot of projects, and I had help from plenty of different technologies. Just look below 😅⬇️
+
+Tools I’ve picked up along the way. Some assembly required 😅
+
+<details>
+<summary><b>Enter my toolbox! ⬇️</b></summary>
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -66,14 +70,16 @@ These are are a lot of projects, and I had help from plenty of different technol
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
 ![NBomber](https://img.shields.io/badge/NBomber-512BD4?style=flat)
 
+</details>
+
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erichuangreal&theme=github-compact" alt="GitHub activity graph"/>
   <img src="https://streak-stats.demolab.com/?user=erichuangreal&theme=transparent&hide_border=true" height="160" alt="GitHub streak"/>
 </div>
 
 ## Connect
-Link up
+Building something cool? Let’s talk.
+
 - LinkedIn: https://www.linkedin.com/in/erichuanguw
 - Email: e233huan@uwaterloo.ca
 - Website: https://erichuangreal.dev/
