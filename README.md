@@ -1,23 +1,14 @@
 ## About me
 
-- I’m a Computer Engineering student at the University of Waterloo 🔧👷
-- Usually building software, occasionally wiring things together, often debugging both 😁
+I’m a Computer Engineering student at the University of Waterloo who enjoys building both software and hardware. I’m especially interested in machine learning, full-stack development, and embedded systems, but I’ll try anything if the idea sounds fun.
 
-- Some projects I'm passionate to share are my
-    - trading ml model 📈
-    - RAG research assistant 🧐🥼
-    - weightlifting coach 🏋😓
-    - embedded hospital bed 🛏️🥱
-    - model that saves the trees! 🌲🎄
-    - upright skeleton, to fix your posture 🐒
-    - linux board, that runs an entire OS ‼️
+I’ve built projects that rank stocks, answer questions about research papers, predict tree health, and remind you to fix your posture. I like taking an idea, figuring out how to make it work, and turning it into something people can actually use.
+
+I’m looking for Winter 2027 co-op opportunities where I can contribute and keep learning. If you’re working on something cool or just want to chat, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/erichuanguw)
 
 ## Tech Stack
 
-Tools I’ve picked up along the way. Some assembly required 😅
-
-<details>
-<summary><b>Enter my toolbox! ⬇️</b></summary>
+Tools I’ve picked up along the way.
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -69,8 +60,6 @@ Tools I’ve picked up along the way. Some assembly required 😅
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
 ![NBomber](https://img.shields.io/badge/NBomber-512BD4?style=flat)
-
-</details>
 
 ## GitHub Stats
 <div align="center">
